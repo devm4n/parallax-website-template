@@ -1,6 +1,7 @@
 # Parallax Website Template
 
 https://devm4n.github.io/parallax-website-template/
+
 This is a simple parallax website created using HTML and CSS. The website features a scrolling effect where different layers move at different speeds, creating a visually appealing experience.
 
 ## Features
